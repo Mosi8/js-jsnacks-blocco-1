@@ -1,0 +1,19 @@
+body {
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  div {
+    margin: 100px auto;
+    font-size: 70px;
+    font-weight: bold;
+  }
+
+
+#red {
+    color: red;
+}
+
+#green {
+    color: green;
+}
